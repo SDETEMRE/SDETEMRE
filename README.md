@@ -1,4 +1,4 @@
-[![MasterHead](http://www.arhamsoft.com/blog/wp-content/uploads/2018/11/Software-Quality-Assurance-1024x768.jpg)
+![MasterHead](http://www.arhamsoft.com/blog/wp-content/uploads/2018/11/Software-Quality-Assurance-1024x768.jpg)
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate QA Engineer from Turkey</h3>
 

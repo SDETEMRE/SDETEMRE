@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate QA Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning **AI testing**
 
 - 🤝 I’m looking for help with **QA Projects**
 
